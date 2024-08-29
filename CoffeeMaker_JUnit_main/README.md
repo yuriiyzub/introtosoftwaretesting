@@ -2,7 +2,7 @@ CoffeeMaker - Golden Version
 =============================
 - My main task in this project was to write unit tests for the coffeemaker and also perform the following steps: 
 1. Run the project and install gradlev;
-2. 2. Write module tests for the entire functionality of the coffee machine using JUnit
+2. Write module tests for the entire functionality of the coffee machine using JUnit
 
 Package Prerequisites
 ---------------------
