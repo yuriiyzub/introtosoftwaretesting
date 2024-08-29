@@ -1,9 +1,6 @@
 CoffeeMaker - Golden Version
 =============================
-This project contains the golden (or "good") version of the CoffeeMaker example.
-
-Below, are instructions to build and, if you have tests, execute tests on this code.  We describe the prerequisites and provide instructions for building and running the tests.  We also include information about the directory structure provided.
-
+# My main task in this project was to write unit tests for the coffeemaker and also perform the following steps: 1. Run the project and install gradlev; 2. Write module tests for the entire functionality of the coffee machine using JUnit
 
 Package Prerequisites
 ---------------------
